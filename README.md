@@ -21,7 +21,6 @@ This plugin is very simple.
 - bpcommands.discord - at this permission you can use command /discord
 - bpcommands.web - at this permission you can use command /web
 - bpcommands.ts3 - at this permission you can use command /ts3
-- bpcommands.version - at this permission you can use command /bp-version
 
 
 ### How to add on server ? ###
