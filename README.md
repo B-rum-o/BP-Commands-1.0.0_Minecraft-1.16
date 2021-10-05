@@ -12,10 +12,6 @@
 ![BPCommandsConfig](https://user-images.githubusercontent.com/70117557/117728080-3df69a80-b1e9-11eb-9956-5d629f06c076.png)
 
 
-
-This plugin is very simple.
-
-
 ### Permissions: ###
 
 - bpcommands.discord - at this permission you can use command /discord
